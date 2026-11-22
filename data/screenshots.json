@@ -1377,8 +1377,7 @@
     "https://raw.githubusercontent.com/MJorgin/dsh-media-skills/main/docs/screenshots/panel-generate.png",
     "https://raw.githubusercontent.com/MJorgin/dsh-media-skills/main/docs/screenshots/panel-works.png",
     "https://raw.githubusercontent.com/MJorgin/dsh-media-skills/main/docs/screenshots/install-dialog.png"
-  ]
-,
+  ],
   "https://github.com/loyalchiiina/dsh-skill-browser": [
     "https://raw.githubusercontent.com/loyalchiiina/dsh-skill-browser/main/docs/images/shot-01.png",
     "https://raw.githubusercontent.com/loyalchiiina/dsh-skill-browser/main/docs/images/shot-02.png",
@@ -1388,5 +1387,14 @@
     "https://raw.githubusercontent.com/loyalchiiina/dsh-skill-browser/main/docs/images/shot-06.png",
     "https://raw.githubusercontent.com/loyalchiiina/dsh-skill-browser/main/docs/images/shot-07.png",
     "https://raw.githubusercontent.com/loyalchiiina/dsh-skill-browser/main/docs/images/shot-11.png"
+  ],
+  "https://github.com/879745uhjun/dsh-notepad": [
+    "https://raw.githubusercontent.com/879745uhjun/dsh-notepad/main/docs/screenshots/preview.png"
+  ],
+  "https://github.com/879745uhjun/dsh-session-stars": [
+    "https://raw.githubusercontent.com/879745uhjun/dsh-session-stars/main/docs/screenshots/preview.png"
+  ],
+  "https://github.com/879745uhjun/dsh-approval-zh": [
+    "https://raw.githubusercontent.com/879745uhjun/dsh-approval-zh/main/docs/screenshots/preview.png"
   ]
 }
